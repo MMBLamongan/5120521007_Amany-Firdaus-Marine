@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-file": {
+      "ANDROIDX_WEBKIT_VERSION": "1.4.0",
+      "PACKAGE_NAME": "com.gameedukasi.alatmusiktradisional"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "com.gameedukasi.alatmusiktradisional"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.gameedukasi.alatmusiktradisional"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.gameedukasi.alatmusiktradisional"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "com.gameedukasi.alatmusiktradisional"
+    }
+  },
+  "dependent_plugins": {}
+}
